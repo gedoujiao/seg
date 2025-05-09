@@ -1,0 +1,29 @@
+
+# 忽略 Git 仓库
+.git/
+
+# 忽略 Jupyter 检查点
+.ipynb_checkpoints/
+
+# 忽略虚拟环境
+.venv/
+env/
+venv/
+
+# 忽略模型文件
+*.pt
+*.pth
+*.ckpt
+
+# 忽略压缩包
+*.zip
+*.tar.gz
+*.rar
+
+# 忽略 Python 编译缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 忽略 VSCode 配置
+.vscode/
